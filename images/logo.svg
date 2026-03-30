@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 70" width="200" height="70">
+  <!-- Phoenix bird symbol -->
+  <g transform="translate(10,5)">
+    <path d="M25,30 C20,20 10,15 5,20 C10,15 15,10 25,12 C22,8 28,4 32,8 C36,4 42,8 39,12 C49,10 54,15 49,20 C44,15 34,20 29,30 Z" fill="#C9A84C"/>
+    <path d="M27,30 L27,50 L32,55 L37,50 L37,30 Z" fill="#C9A84C"/>
+    <path d="M18,32 C15,35 14,42 18,45 L27,38 Z" fill="#A07830"/>
+    <path d="M46,32 C49,35 50,42 46,45 L37,38 Z" fill="#A07830"/>
+  </g>
+  <!-- PHOENIX text -->
+  <text x="65" y="28" font-family="Georgia, serif" font-size="11" font-weight="bold" fill="#C9A84C" letter-spacing="3">PHOENIX</text>
+  <!-- Divider lines -->
+  <line x1="65" y1="32" x2="185" y2="32" stroke="#C9A84C" stroke-width="0.5" opacity="0.5"/>
+  <!-- PALASSIO text -->
+  <text x="65" y="48" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#1A1A1A" letter-spacing="2">PALASSIO</text>
+  <line x1="65" y1="52" x2="185" y2="52" stroke="#C9A84C" stroke-width="0.5" opacity="0.5"/>
+</svg>
